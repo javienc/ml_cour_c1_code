@@ -46,9 +46,9 @@ wandb/
 lightning_logs/
 
 # Jupyter Notebook
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
-*.ipynb
+# .ipynb_checkpoints
+# */.ipynb_checkpoints/*
+# *.ipynb
 
 # IDE
 .idea/
